@@ -1,0 +1,41 @@
+body{
+    background-color: #075E54;
+}
+
+.container-fluid{
+    text-align: center;
+}
+
+.top-paragraph{
+    margin: 3em ;
+    color: white;
+    font-size: 1.2em;
+}
+
+.user-profile{
+    color: white;
+}
+
+.user-profile .fa-user{
+    font-size: 4em;
+    border-radius: 50%;
+    background-color: #075E54;
+    padding: 0.9em 1em;
+    border: 5px solid white ;
+}
+
+.caller-name{
+    padding-top: 2em;
+}
+
+.end-call .phone-slash-wrapper{
+    text-decoration: none;
+}
+
+.end-call .fa-phone-slash{
+    margin-top: 3em;
+    border-radius: 50%;
+    background-color: red;
+    font-size: 2em;
+    padding: 1em 0.9em;
+}

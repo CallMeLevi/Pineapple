@@ -1,0 +1,13 @@
+.container-fluid .nav-pills .nav-item a {
+    font-size: 1.4em;
+}
+
+.recent-header{
+    padding: 1.6em;
+    text-align: center;
+}
+
+.list-group{
+    margin-top: 3em;
+}
+
